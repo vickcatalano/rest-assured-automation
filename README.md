@@ -16,6 +16,12 @@ Este repositório contém testes automatizados desenvolvidos em **Java** para a 
 
 ---
 
+## Repositório complementar 
+Aqui se encontram arquivos complementares a esta atividade. É possível usar o json server e a collection criada para testes em uma api de livros.
+Visite o [repositório github](https://github.com/vickcatalano/json-server)
+
+---
+
 ## 🚀 Como Executar os Testes
 
 ### 1. Clone o projeto
@@ -32,7 +38,5 @@ mvn clean test
 
 mvn allure:serve
 
-### 4. Repositório complementar
-Aqui se encontram arquivos complementares a esta atividade. É possível usar o json server e a collection criada para testes em uma api de livros.
-Visite o [repositório github](https://github.com/vickcatalano/json-server)
+
 
