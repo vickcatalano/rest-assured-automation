@@ -34,5 +34,5 @@ mvn allure:serve
 
 ### 4. Repositório complementar
 Aqui se encontram arquivos complementares a esta atividade. É possível usar o json server e a collection criada para testes em uma api de livros.
-(https://github.com/vickcatalano/json-server)
+Visite o [repositório github](https://github.com/vickcatalano/json-server)
 
