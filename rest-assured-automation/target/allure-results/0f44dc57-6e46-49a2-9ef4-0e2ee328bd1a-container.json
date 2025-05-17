@@ -1,0 +1,1 @@
+{"uuid":"0f44dc57-6e46-49a2-9ef4-0e2ee328bd1a","name":"pingServer_returnOk()","children":["27fec826-d847-477e-8049-c76097084949"],"befores":[{"name":"setRequest","status":"passed","stage":"finished","steps":[],"attachments":[],"parameters":[],"start":1747486920202,"stop":1747486920209}],"afters":[],"start":1747486920198,"stop":1747486920857}
